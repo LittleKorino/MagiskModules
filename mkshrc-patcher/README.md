@@ -44,7 +44,7 @@ echo "Disable the Magisk Module to disable the Initialization"
 
 ## 👤 Author
 
-- Master Korino
+- Korino
 
 ## 📄 License
 

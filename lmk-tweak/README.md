@@ -41,7 +41,7 @@ echo 50 > /proc/sys/vm/vfs_cache_pressure
 
 ## 👤 Author
 
-- Master Korino
+- Korino
 
 ## 📄 License
 

@@ -1,6 +1,6 @@
 # 🚀 GPU Render Magisk Module
 
-**Author:** Master Korino  
+**Author:** Korino  
 **Version:** 1.0  
 **Module ID:** test_GPURender  
 

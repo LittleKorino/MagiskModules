@@ -41,4 +41,3 @@ resetprop ro.lmk.lowmem_min_oom_score 901
 
 echo 180 > /proc/sys/vm/swappiness
 echo 50 > /proc/sys/vm/vfs_cache_pressure
-
