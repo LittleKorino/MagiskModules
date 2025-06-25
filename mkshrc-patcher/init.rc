@@ -1,0 +1,10 @@
+#!/system/bin/sh
+
+export PREFIX='/data/data/com.termux/files/usr'
+export LD_LIBRARY_PATH='/data/data/com.termux/files/usr/lib'
+export PATH="/data/data/com.termux/files/usr/bin:/data/data/com.termux/files/usr/applets:$PATH"
+export LANG='en_US.UTF-8'
+cd /data/adb/
+echo "Hello Master Korino"
+echo "This is a custom Environment with Termux Binaries and Libraries"
+echo "Disable the Magisk Module to disable the Initialization"

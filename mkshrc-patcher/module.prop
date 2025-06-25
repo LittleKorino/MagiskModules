@@ -1,0 +1,6 @@
+id=sh_init
+name=Shell init.rc
+version=1.0
+versionCode=1
+author=Master Korino
+description=This module is used to change the mkshrc file
